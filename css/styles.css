@@ -1,0 +1,12 @@
+body
+{
+   transition: 1s background-color;
+}
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+html {
+  scroll-behavior: smooth;
+}
